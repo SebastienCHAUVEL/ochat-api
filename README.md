@@ -4,6 +4,8 @@
 
 👉 [Voir la démo en ligne](https://ochat-front.vercel.app/)
 
+👉 [Accèder au repo du frontend](https://github.com/SebastienCHAUVEL/ochat-front)
+
 ---
 
 ## 🎯 Objectifs du projet
